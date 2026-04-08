@@ -13,6 +13,7 @@
 <a href="https://github.com/Yubo-Shankui" style="color: inherit;">Yubo Huang</a><sup>1,2</sup> ·
 <a href="#" style="color: inherit;">Hailong Guo</a><sup>2,3</sup> ·
 <a href="#" style="color: inherit;">Fangtai Wu</a><sup>2,4</sup> ·
+<a href="#" style="color: inherit;">Weiqiang Wang</a><sup>5</sup> ·
 <a href="#" style="color: inherit;">Shifeng Zhang</a><sup>2</sup> ·
 <a href="#" style="color: inherit;">Shijie Huang</a><sup>2</sup> ·
 <a href="#" style="color: inherit;">Qijun Gan</a><sup>4</sup> ·
@@ -28,6 +29,8 @@
 <sup>2</sup> Alibaba Group &nbsp;&nbsp;
 <sup>3</sup> Beijing University of Posts and Telecommunications &nbsp;&nbsp;
 <sup>4</sup> Zhejiang University
+<sup>5</sup> Monash University
+  
 </p>
 
 <p style="font-size: 0.9em;">
